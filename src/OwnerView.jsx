@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 function OwnerView() {
   return (
     <div className="body" style={{paddingTop: '50px'}}> 
